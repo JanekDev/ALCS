@@ -1,0 +1,3 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{return} \PYG{l+m+mf}{0.0}\PYG{o}{+}\PYG{k}{this}\PYG{p}{.}\PYG{n+nx}{velocity}\PYG{o}{*}\PYG{l+m+mf}{20.0}\PYG{o}{+}\PYG{k}{this}\PYG{p}{.}\PYG{n+nx}{vertvel}\PYG{o}{*}\PYG{l+m+mf}{20.0}\PYG{p}{;}
+\end{Verbatim}
